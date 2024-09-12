@@ -1,8 +1,10 @@
-# Programming_Language_Analysis
 
-# Trending Computer Languages Dashboard
+# Data_Professional_Analysis
 
-### Dashboard Link: [Insert Power BI Link Here]
+### Dashboard Link: https://github.com/Madhav-Analyst/Programming_Language_Analysis
+
+![Dashboard_Picture](https://github.com/user-attachments/assets/7ba8ba3b-7fff-46c3-b420-6e3a3b258176)
+
 #### Problem Statement
 This dashboard provides insights into the current trends in popular programming languages. It helps developers, recruiters, and organizations understand which programming languages are in high demand, enabling them to make informed decisions about hiring, training, and future development strategies.
 
@@ -17,6 +19,9 @@ Step 2: Open Power Query Editor and ensure data quality by checking column distr
 
 Step 3: Clean the data by handling missing values and removing irrelevant columns. For example, columns like "Unused Libraries" were dropped.
 
+![Screenshot 2024-09-12 181740](https://github.com/user-attachments/assets/0987efc1-5e53-4dc5-ba38-d6c68904bb6d)
+
+
 Step 4: Created calculated columns to group languages by their category (e.g., general-purpose, mobile development, web development).
 
 Step 5: Used DAX to create new measures for key metrics such as:
@@ -26,6 +31,8 @@ Step 5: Used DAX to create new measures for key metrics such as:
 ✒️Total Repositories: Sum of GitHub repositories associated with each language.
 
 ✒️Community Engagement Score: Calculated based on forum activity and Q&A volume for each language.
+
+![Screenshot 2024-09-12 181722](https://github.com/user-attachments/assets/bf08e662-ad40-46cd-944f-0718156c60b4)
 
 Step 6: Visualized language usage trends using line charts to show growth over time. Data segmented by year, industry, and application type.
 
@@ -69,6 +76,9 @@ The dashboard provides key insights into the state of programming languages:
 📍Kotlin: 25% growth
 
 📍Swift: 20% growth
+
+![Screenshot 2024-09-12 181735](https://github.com/user-attachments/assets/db2b985b-0ccf-42be-8d88-8b1029170091)
+
 
 #### ✒️Language Usage Across Industries
 

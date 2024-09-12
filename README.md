@@ -1,7 +1,7 @@
 
 # Data_Professional_Analysis
 
-### Dashboard Link: https://github.com/Madhav-Analyst/Programming_Language_Analysis
+### Dashboard Link: https://github.com/Madhav-Analyst/Data_Professional_Analysis
 
 ![Dashboard_Picture](https://github.com/user-attachments/assets/7ba8ba3b-7fff-46c3-b420-6e3a3b258176)
 
